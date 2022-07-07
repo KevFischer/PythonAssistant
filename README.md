@@ -2,7 +2,7 @@
 This project will be a python based assistant app controlled by voice recognition.
 The user will receive feedback by TTS features.
 
-Read more in the Wiki section (will be filled soon).
+Read more in the [Wiki Section](https://github.com/KevFischer/PythonAssistant/wiki).
 
 ## How to run
 
@@ -125,10 +125,10 @@ In project directory:
     
 ## Troubleshooting
 
-Feel free to create issues if you have troubles starting the app or setting up one of the prerequisites.
+Feel free to create [issues](https://github.com/KevFischer/PythonAssistant/issues) if you have troubles starting the app or setting up one of the prerequisites.
 
 I'm looking forward to help with every issue.
 
 ## Roadmap
 
-You can have an indepth view of planned Features, Bugfixes and more in the issues section.
+You can have an indepth view of planned Features, Bugfixes and more in the [issues section](https://github.com/KevFischer/PythonAssistant/issues).
